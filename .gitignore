@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pela simulação
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Variáveis de ambiente
+.env
