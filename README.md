@@ -2,7 +2,7 @@
 
 # Black Death Evolution Simulator
 
-<img src="./assets/plague_doctor.png" width="220" alt="Plague Doctor">
+<img src="./assets/plague_doctorII.png" width="220" alt="Plague Doctor">
 
 <br><br>
 
